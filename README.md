@@ -20,7 +20,7 @@ Covid2019 visualization for tracking the status in the world.
 
 #### 更新记录
 
-##### 2020-07-05
+##### `v1.0` 2020-07-05
 
 1. 项目初始化。
 2. 完成可视化程序中中国地图的省市下钻功能。
